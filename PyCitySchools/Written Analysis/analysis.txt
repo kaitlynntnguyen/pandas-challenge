@@ -1,0 +1,7 @@
+Schools with lower per student spending have more consistent math and reading score averages than schools that have higher spending.
+Reading scores vary from 81 ($645-$680 per student) to 84 (<$585 per student). While math has an average score of 77 for $645-$680 per student, and 83% for <$585 per student. 
+
+Top performing schools have similar average math and reading scores around 83-84%, while bottom performing schools have more variation between their average math and reading scores, with the math average scores being 3-5 points higher than the reading scores.
+Student class size seems to have a greater impact on math pass rates than reading pass rates. 
+
+As a whole, charter schools have higher metrics than district schools. However, further analysis needs to be done to determine whether or not the student demographic and geographic location provides insight to this. Further data about student to teacher ratios would be useful for future analysis.
